@@ -16,7 +16,7 @@ Ex:
 node_modules/
 .env
 
-**# caso os arquivos já estiverem sendo versionados, o git continuará rastreando os arquivos, para impedir isso use no terminal:**
+# caso os arquivos já estiverem sendo versionados, o git continuará rastreando os arquivos, para impedir isso use no terminal:**
 git rm --cached -r node_modules .env
 git commit -m "Ocultando arquivos sensíveis"
 git push
@@ -40,7 +40,7 @@ git push
 # DICA
 
 ```jsx
-Use um gerador automático de **.gitignore** de acordo com a tecnologia que você está usando:
+Use um gerador automático de .gitignore de acordo com a tecnologia que você está usando:
 
 # https://www.toptal.com/developers/gitignore
 ```
