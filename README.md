@@ -1,1 +1,1 @@
-# tutorialgitignore
+# tutorial .gitignore
