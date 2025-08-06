@@ -1,0 +1,38 @@
+body {
+  background-color: #f0f0f0;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+}
+
+.neubrutal-box {
+  background-color: #fff;
+  border: 4px solid #000;
+  box-shadow: 8px 8px 0px #000;
+  border-radius: 4px;
+  max-width: 800px;
+  margin: 40px auto; 
+  padding: 20px;
+}
+
+code, pre {
+  background-color: #efefef;
+  padding: 10px;
+  border: 2px solid #000;
+  font-family: monospace;
+  font-size: 0.95rem;
+  display: block;
+  border-radius: 4px;
+  white-space: pre-wrap;
+  text-align: left; 
+  margin: 0 auto 20px auto; 
+}
+
+.shadow-btn {
+  box-shadow: 4px 4px 0px #000;
+  margin: 10px;
+}
+
+button:hover, a.btn:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0px #000;
+}
