@@ -1,8 +1,8 @@
-# Aplicando .gitignore no seu projeto
+# APLICANDO O .GITIGNORE NO SEU PROJETO
 
-## O .gitignore quando usado em um projeto, ignora arquivos e diretórios sensíveis ou desnecessários que você não quer que sejam rastreado pelo versionamento do seu código.
+## O .gitignore quando usado em um projeto, ignora arquivos e diretórios sensíveis ou desnecessários que você não quer que sejam rastreados pelo versionamento do seu código.
 
-# **CRIANDO E CONFIGURANDO O  .gitignore**
+# **CRIANDO E CONFIGURANDO O .GITIGNORE**
 
 ```bash
 # no terminal PowerShel crie o arquivo .gitignore no projeto
@@ -11,8 +11,8 @@ New-Item .gitignore -ItemType File
 
 touch .gitignore
 
-**# dentro do arquivo .gitignore adicione o que deseja ser ignorado com suas respectivias extensões
-Ex:**
+# dentro do arquivo .gitignore adicione o que deseja ser ignorado com suas respectivias extensões
+Ex:
 node_modules/
 .env
 
@@ -51,5 +51,6 @@ Leia a documentação oficial do Git para entender mais sobre o funcionamento do
 
 https://git-scm.com/docs/gitignore/pt_BR
 
-Links importantes
+# LINKS IMPORTANTES
+
 Tutorial no Notion: https://www.notion.so/Aplicando-gitignore-no-seu-projeto-23e78843b38a80148a37cfee91a67cdb
